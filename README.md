@@ -65,7 +65,8 @@ And the curated synthetic lethality database:
 |------|-------------|
 | `gene_sl_gene.csv` | Curated SL gene pairs (columns: `x_name`, `y_name`) — see paper for source |
 
-goner_list.txt was generated from DepMap Public 24Q4 (released November 2024, DOI: 10.25452/figshare.plus.27993248). To regenerate from a later release, delete this file and re-run cell 2, which will download and cache the current version automatically.
+File was generated from DepMap Public 25Q3 dataset at depmap.org To regenerate from a later release, delete this file and re-run cell 2, which will download and cache the current version automatically. We acknowledge Broad and their details are described in their paper:
+Arafeh, R., Shibue, T., Dempster, J.M. et al. The present and future of the Cancer Dependency Map. Nat Rev Cancer 25, 59-73 (2025). https://doi.org/10.1038/s41568-024-00763-x
 
 ---
 
