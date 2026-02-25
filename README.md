@@ -1,4 +1,4 @@
-# skunk-lm — Learning Machines for Goners
+# GOBLET (Goner-Orchestrated Buffering via Lethality and Expression in Tumours)
 
 A computational pipeline for identifying synthetic lethality candidates in pancreatic cancer through transcriptional buffering analysis.
 
